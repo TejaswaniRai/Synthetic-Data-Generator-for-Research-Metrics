@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Synthetic Data Generator for Academic Research Metrics
 
 Welcome to the Synthetic Data Generator for Academic Research Metrics, an advanced computational framework engineered to produce high-fidelity synthetic datasets that emulate the intricate dynamics of scholarly publication ecosystems. This sophisticated tool empowers researchers, data scientists, and academic institutions to generate authentic-looking bibliometric data for experimental analysis, algorithm validation, and methodological development.
@@ -76,17 +76,3 @@ synthetic-data-generator/
 - matplotlib==3.7.2
 - Faker==19.3.0
 
-## Collaborative Development
-
-We welcome contributions to enhance data authenticity, implement novel bibliometric indicators, or refine visualization methodologies. Please fork the repository and submit comprehensive pull requests with detailed technical documentation.
-
-## Licensing Framework
-
-This project operates under the MIT License, facilitating academic and commercial utilization while maintaining attribution requirements.
-
----
-
-Leverage the power of synthetic bibliometric data to accelerate your research methodology development, algorithm validation, and scholarly impact analysis with unparalleled precision and computational efficiency.
-=======
-# Synthetic-Data-Generator-for-Research-Metrics
->>>>>>> bff7f95ee8d4bd2f3bfd903572dc08515b490691
